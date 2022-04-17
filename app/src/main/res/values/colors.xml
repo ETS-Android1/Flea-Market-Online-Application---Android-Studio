@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#303F9F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="color_70">#ffbe15a7</color>
+    <color name="color_60_70">#ffbe153c</color>
+    <color name="color_50_60">#ffe75f1b</color>
+    <color name="color_40_50">#ffe9c114</color>
+    <color name="color_30">#ff1be914</color>
+
+    <color name="transparent">#00ffffff</color>
+    <color name="jupiterchain">#00cccc</color>
+
+</resources>
