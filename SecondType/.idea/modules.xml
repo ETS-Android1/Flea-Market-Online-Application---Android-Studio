@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CircleProgressView/CircleProgressView.iml" filepath="$PROJECT_DIR$/CircleProgressView/CircleProgressView.iml" group="SecondType2/CircleProgressView" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SecondType2.iml" filepath="$PROJECT_DIR$/.idea/modules/SecondType2.iml" group="SecondType2" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="SecondType2/app" />
+      <module fileurl="file://$PROJECT_DIR$/bubbleseekbar/bubbleseekbar.iml" filepath="$PROJECT_DIR$/bubbleseekbar/bubbleseekbar.iml" group="SecondType2/bubbleseekbar" />
+    </modules>
+  </component>
+</project>

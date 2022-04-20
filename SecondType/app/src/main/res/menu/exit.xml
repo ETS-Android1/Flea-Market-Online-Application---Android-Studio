@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/fb"
+        android:icon="@mipmap/fb"
+        android:title="Push"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/sx"
+        android:icon="@mipmap/dp_xs"
+        android:title="Classification screening"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/ss"
+        android:icon="@mipmap/dp_ss"
+        android:title="Search"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/exit"
+        android:icon="@mipmap/ic_exit_to_app_white_24dp"
+        android:title="Exit"
+        app:showAsAction="always" />
+
+</menu>
